@@ -5,7 +5,7 @@
   "authors": [
     "SiiMeR"
   ],
-  "description": "Adds convienent",
+  "description": "Adds convienent forward/back button to dropdowns",
   "version": "1.0.0",
   "dependencies": {
     "game": ""
