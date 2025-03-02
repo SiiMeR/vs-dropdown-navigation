@@ -1,0 +1,13 @@
+{
+  "type": "code",
+  "modid": "dropdownnextprev",
+  "name": "DropdownNextPrev",
+  "authors": [
+    "SiiMeR"
+  ],
+  "description": "Adds convienent",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": ""
+  }
+}
